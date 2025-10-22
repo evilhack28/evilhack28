@@ -1,9 +1,8 @@
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/evilhack28/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.deno.dev/:evilhack28:/count.svg" alt="Key:: Visitor's Count" />
 </div>
-
-## ⚡️ Stats
+<br>
 
 <br>
 
